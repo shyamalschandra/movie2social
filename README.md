@@ -1,4 +1,4 @@
-# MOVIE2SOCIAL for movie conversion into social media aspect ratio
+# MOVIE2SOCIAL for movie conversion into social aspect ratio
 A bash script for Mac that converts a traditional aspect-ratio into a social media aspect ratio for easy insertion.
 
 ## Version 0.1 (for macOS 10.15.5 Catalina)
