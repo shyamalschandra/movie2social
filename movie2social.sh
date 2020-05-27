@@ -18,4 +18,4 @@ else
 fi
 
 # Perform the ffmpeg conversion to the social aspect ratio with the desired arguments
-ffmpeg -loglevel warning -y -threads $1 -i $2 -vf "scale=1920:1080,crop=499:1080:$x:0" -pix_fmt yuv420p -acodec copy -c:a copy $3
+ffmpeg -loglevel warning -y -threads $1 -i $2 -vf "scale=1920:1080,crop=607:1080:$x:0" -pix_fmt yuv420p -acodec copy -c:a copy $3
