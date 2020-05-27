@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Input parameters to the script that converts movies into a Instagram-compatible video
+# Input parameters to the script that converts movies into a social media-compatible video
 INPUT_FILE=$2    # The input file (compatible with FFMPEG) and extension
 OUTPUT_FILE=$3   # The output file and extension
 NUM_THREADS=$1   # The number of threads to use in the conversion
