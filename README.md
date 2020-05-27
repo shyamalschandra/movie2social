@@ -8,7 +8,7 @@ by Shyamal Suhana Chandra, shyamalc@gmail.com
 # Installation
 
 1. Please do a `git clone https://github.com/shyamalschandra/pdftovlc.git`.
-2. Run the prequisites with the installation script called `install.sh` after `chmod +x install.sh`.
+2. Run the prequisites with the installation script called `install.sh` with a `./install.sh` after `chmod +x install.sh`.
 
 # Example argument list with the command:
 
