@@ -2,8 +2,13 @@
 A bash script for Mac that converts a traditional aspect-ratio into a social media aspect ratio for easy insertion.
 
 ## Version 0.1 (for macOS 10.15.5 Catalina)
-
 ## by Shyamal Suhana Chandra, shyamalc@gmail.com
+
+-----------
+
+**Purpose:** This bash script for MacOS is used to convert movie into a Instagram-compatible video with correct social media aspect ratio with a number of parameters (number of threads to use in ffmpeg, location on x-axis, and names of input & output formats and videos)
+
+-----------
 
 # Installation
 
